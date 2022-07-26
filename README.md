@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Hi, I'm Payson</h1>
 <h3 align="center">13 year old Full Stack Web & Desktop Developer</h3>
 
@@ -30,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-dennygamingyt&show_icons=true&locale=en&layout=compact" alt="p-dennygamingyt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-dennygamingyt&show_icons=true&locale=en" alt="p-dennygamingyt" /></p>
+
+</div>
