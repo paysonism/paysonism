@@ -1,11 +1,11 @@
 
 
-<h1 align="center">Hi, I'm Payson</h1>
+<h1 align="center">Payson Holmes</h1>
 <h3 align="center">13 year old Full Stack Web & Desktop Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="p-dennygamingyt" /> </p>
 
-<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=P-DennyGamingYT&theme=onedark)](https://github.com/P-DennyGamingYT) </p>
+<p align="center"> Contact Me: [Email](mailto:paysonholmes@gmail.com) or [Discord](https://discord.gg/users/820680923887566868)</p>
 
 - I'm currently working on [PDennSploit](https://github.com/P-DennyGamingYT/PDennSploit)
 
