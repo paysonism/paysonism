@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="p-dennygamingyt" /> </p>
 
-<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=P-DennyGamingYTa&theme=onedark)](https://github.com/P-DennyGamingYT) </p>
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=P-DennyGamingYT&theme=onedark)](https://github.com/P-DennyGamingYT) </p>
 
 - I'm currently working on [PDennSploit](https://github.com/P-DennyGamingYT/PDennSploit)
 
