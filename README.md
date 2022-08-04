@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="p-dennygamingyt" /> </p>
 
-<p align="center"> Contact Me: [Email](mailto:paysonholmes@gmail.com) or [Discord](https://discord.gg/users/820680923887566868)</p>
+<p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/users/820680923887566868">Discord</a></p>
 
 - I'm currently working on [PDennSploit](https://github.com/P-DennyGamingYT/PDennSploit)
 
