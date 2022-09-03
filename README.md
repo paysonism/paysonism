@@ -33,4 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-dennygamingyt&show_icons=true&locale=en" alt="p-dennygamingyt" /></p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/820680923887566868)](https://discord.com/users/820680923887566868)
+
 
