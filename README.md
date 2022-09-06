@@ -15,7 +15,7 @@
 
 - I made the first KRNL UI for Synapse X, you can find it [here](https://github.com/P-DennyGamingYT/KRNL-UI)
 
-- All of my projects are available here [https://github.com/P-DennyGamingYT?tab=repositories](https://github.com/P-DennyGamingYT?tab=repositories)
+- All of my projects are available [here](https://github.com/P-DennyGamingYT?tab=repositories).
 
 - Contact Me at **paysonholmes@gmail.com**
 
