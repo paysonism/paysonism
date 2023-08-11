@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Payson Holmes</h1>
-<h3 align="center">13 year old Full Stack Web & Desktop Developer</h3>
+<h3 align="center">Full Stack Web and Desktop Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="paysonism" /> </p>
 
@@ -32,9 +32,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="lua" width="40" height="40"/>
            </a></p>
 <br><br>
-<p>Don't believe this. I main Static Languages, C#, and C++.<br><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-dennygamingyt&show_icons=true&locale=en&layout=compact" alt="p-dennygamingyt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-dennygamingyt&show_icons=true&locale=en" alt="p-dennygamingyt" /></p>
+<p>I made HTML, CSS, JS, C#, and C++</p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/820680923887566868)](https://discord.com/users/820680923887566868)
 
