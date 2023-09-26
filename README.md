@@ -34,6 +34,4 @@
 <br><br>
 <p>I made HTML, CSS, JS, C#, and C++</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/820680923887566868)](https://discord.com/users/820680923887566868)
-
 
