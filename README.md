@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="paysonism" /> </p>
 
-<p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/users/820680923887566868">Discord</a></p>
+<p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/users/1155866973243191296">Discord</a></p>
 
 - I'm currently working on [SubZeroFN](https://github.com/paysonism/SubZeroFN)
 
@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://twitter.com/paysonism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paysonism" height="30" width="40" /></a>
 <a href="https://www.youtube.com/p-denny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p-denny" height="30" width="40" /></a>
-<a href="https://dsc.gg/subzerofn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subzerofn" height="30" width="40" /></a>
+<a href="https://dsc.gg/subzer0fn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subzerofn" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
