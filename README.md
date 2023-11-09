@@ -7,13 +7,13 @@
 
 <p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/users/1155866973243191296">Discord</a></p>
 
-- I'm currently working on [SubZeroFN](https://github.com/paysonism/SubZeroFN)
+- Founder of [SubZero](https://discord.gg/subz)
 
-- I’m currently learning **PHP**
+- I’m currently learning **C++ and Kernelmode**
 
-- I'm also working on [SubZero Spoofer](https://github.com/paysonism/SubZero-Spoofer)
+- I'm a really good cheat dev
 
-- I made the first KRNL UI for Synapse X, you can find it [here](https://github.com/paysonism/KRNL-UI)
+- I made the KRNL UI, you can find the source [here](https://github.com/paysonism/KRNL-Open-Source)
 
 - All of my projects are available [here](https://github.com/paysonism?tab=repositories).
 
@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://twitter.com/paysonism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paysonism" height="30" width="40" /></a>
 <a href="https://www.youtube.com/p-denny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p-denny" height="30" width="40" /></a>
-<a href="https://dsc.gg/subzer0fn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subzerofn" height="30" width="40" /></a>
+<a href="https://discord.com/users/1170091408510681149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subzerofn" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -32,6 +32,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="lua" width="40" height="40"/>
            </a></p>
 <br><br>
-<p>I made HTML, CSS, JS, C#, and C++</p>
+<p>I main C++ and C#</p>
 
 
