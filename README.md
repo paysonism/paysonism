@@ -7,7 +7,7 @@
 
 <p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/users/1155866973243191296">Discord</a></p>
 
-- Founder of [SubZero](https://discord.gg/subz)
+- Founder of [Saturn IV](https://saturniv.xyz) and OG Founder of [SubZero](https://discord.gg/subz)
 
 - I’m currently learning **Kernel (Drivers)**
 
