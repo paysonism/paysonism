@@ -9,7 +9,7 @@
 
 - Founder of [SubZero](https://discord.gg/subz)
 
-- I’m currently learning **C++ and Kernelmode**
+- I’m currently learning **Kernel (Drivers)**
 
 - I'm a really good cheat dev
 
