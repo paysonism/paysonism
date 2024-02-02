@@ -17,7 +17,7 @@
 
 - All of my projects are available [here](https://github.com/paysonism?tab=repositories).
 
-- Contact Me at **paysonholmes@gmail.com**
+- Contact Me at **paysonholmes@gmail.com** or [telegram](https://t.me/payson1337)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
