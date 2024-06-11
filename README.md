@@ -1,16 +1,10 @@
-<style>
-a {
-  text-decoration: none;
-  
-</style>
-
 <h1 align="center">Yo! I'm Payson</h1>
 <h3 align="center">Full Stack Web and Desktop Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/paysonism" alt="followers"> </p>
 
-<p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/users/1155866973243191296">Discord</a></p>
+<p align="center"> Contact Me: <a href="https://t.me/payson1337">Telegram</a> or <a href="https://discord.gg/users/1214355385457188926">Discord</a></p>
 
 - Founder of [Saturn IV](https://saturniv.xyz) and OG Founder of [SubZero](https://discord.gg/subz)
 
