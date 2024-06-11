@@ -8,15 +8,13 @@
 
 - Founder of [Saturn IV](https://saturniv.xyz) and OG Founder of [SubZero](https://discord.gg/subz)
 
-- I’m currently learning **Kernel (Drivers)**
+- I’m currently learning **Kernel (Windows Drivers)**
 
 - I'm a really good cheat dev
 
 - I made the KRNL UI, you can find the source [here](https://github.com/paysonism/KRNL-Open-Source)
 
 - All of my projects are available [here](https://github.com/paysonism?tab=repositories).
-
-- Contact Me at **paysonholmes@gmail.com** or [telegram](https://t.me/payson1337)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
