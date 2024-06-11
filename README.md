@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Web and Desktop Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-<p align="center"> <img src="img.shields.io/github/followers/paysonism" alt="followers"> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/paysonism" alt="followers"> </p>
 
 <p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/users/1155866973243191296">Discord</a></p>
 
