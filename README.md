@@ -6,7 +6,7 @@
 
 <p align="center"> Contact Me: <a href="https://t.me/payson1337">Telegram</a> or <a href="https://discord.gg/users/1214355385457188926">Discord</a></p>
 
-- Founder of [Saturn IV](https://saturniv.xyz) and OG Founder of [SubZero](https://discord.gg/subz)
+- Founder of [Saturn IV](https://discord.gg/saturniv) and OG Founder of [SubZero](https://discord.gg/subz)
 
 - I’m currently learning **Kernel (Windows Drivers)**
 
