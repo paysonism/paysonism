@@ -3,7 +3,8 @@
 <h1 align="center">Yo! I'm Payson</h1>
 <h3 align="center">Full Stack Web and Desktop Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="paysonism" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center"> <img src="img.shields.io/github/followers/paysonism" alt="followers"> </p>
 
 <p align="center"> Contact Me: <a href="mailto:paysonholmes@gmail.com">Email</a> or <a href="https://discord.gg/users/1155866973243191296">Discord</a></p>
 
@@ -22,8 +23,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/paysonism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paysonism" height="30" width="40" /></a>
-<a href="https://www.youtube.com/p-denny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p-denny" height="30" width="40" /></a>
-<a href="https://discord.com/users/1170091408510681149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subzerofn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@payson1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://discord.com/users/1170091408510681149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
