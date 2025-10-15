@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://discord.com/users/1214355385457188926">
   <img alt="Discord"
-         src="https://img.shields.io/badge/Discord-6f00ff?style=for-the-badge&logo=discord&logoColor=white" />
+         src="https://img.shields.io/badge/Discord-6f00ff?style=flat&logo=discord&logoColor=white" />
 </p>
 ---
 
