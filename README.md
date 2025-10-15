@@ -42,6 +42,7 @@
   <img alt="Discord"
          src="https://img.shields.io/badge/Discord-6f00ff?style=flat&logo=discord&logoColor=white" />
 </p>
+    
 ---
 
 <p align="center">
